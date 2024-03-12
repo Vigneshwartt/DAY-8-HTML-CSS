@@ -1,0 +1,110 @@
+.one{
+    background-color: whitesmoke;
+    transform: translateY(-140%);
+}
+.mm{
+    padding: left;
+
+    display: flex;
+    flex-direction: row;
+    margin:1.9rem;
+    width: 80px;
+    height:450px;
+
+    padding: 180px;
+}
+.two{
+    line-height: 1.3;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width:100px;
+    padding: 100px;
+    background-color: orange;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    p{
+        width: 170px;
+    }
+    h1{
+        color: white;
+        display: flex;
+        align-items:center;
+    }
+    button{
+        border-radius: 26px;
+        transform: translateY(112%);
+        padding: 10%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color:orange;
+
+    }
+    button:hover{
+        background-color: orange;
+        color:white;
+
+    }
+
+}
+.two img{
+    transform: translateY(-60%);
+}
+.three{
+    
+        line-height: 1.3;
+        color: white;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      
+    width: 100px;
+    padding:100px;
+    background-color: #0c607c;
+    p{
+        width: 170px;
+    }
+    button{
+        border-radius: 26px;
+        transform: translateY(112%);
+        padding: 10%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    }
+    button:hover{
+        background-color: #0c607c;
+        color:white;
+
+    }
+}
+.three img{
+    transform: translateY(-60%);
+}
+.four{
+    width:100px;
+    padding: 100px;
+    background-color: hwb(180 5% 70%);
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    p{
+        width: 170px;
+    }
+    
+        line-height: 1.3;
+        color: white;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+        button{
+            border-radius: 26px;
+            transform: translateY(72%);
+            padding: 10%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+        }
+        button:hover{
+            background-color: hwb(180 5% 70%);
+            color:white;
+    
+        }
+    
+
+      
+}
+.four img{
+    transform: translateY(-60%);
+}
